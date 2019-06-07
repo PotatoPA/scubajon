@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: scubajon
-  host: scubajon
+  name: potato676
+  host: potato676
   disk_quota: 1024M
